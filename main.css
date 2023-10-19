@@ -8,7 +8,7 @@ color: rgba(255, 255, 255, .7);
 .card {
 position: relative;
 left: 50%;
-top: 38%px;
+top: 38%;
 width: 170px;
 height: 170px;
 background: url('pict.jpg') no-repeat center/cover;
